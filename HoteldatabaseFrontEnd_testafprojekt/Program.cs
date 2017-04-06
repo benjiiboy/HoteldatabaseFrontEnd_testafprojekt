@@ -16,8 +16,8 @@ namespace HoteldatabaseFrontEnd_testafprojekt
             {
                 Name = "Benjamin",
                 Address = "her"
-            };
-
+            }; 
+            //
             //POST
             Console.WriteLine("Tester for post");
             Console.WriteLine();
